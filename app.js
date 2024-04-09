@@ -25,12 +25,11 @@ const barkServer = process.env["BARKSERVER"]
 //配置需要打开的服务信息,hao4k 和 4ksj，未配置只对hao4k
 const needCheckHost = process.env["CHECKHOST"]
 
-HxHg_2132_lastvisit=1712676297; HxHg_2132_saltkey=J58gellh; HxHg_2132_auth=e776FdF4NvouTCOI1M3F10AmmZ7n1U%2Fn%2F4W1vfDDnDn%2F22DnPiVuuN2Hbxyr%2Fjx8sWytcSSvgrF9m9Lhm%2FptSKqwO5Vl; HxHg_2132_lastcheckfeed=1124735%7C1712679916; HxHg_2132_sid=0; HxHg_2132_comiis_coloruid_1124735=0s; HxHg_2132_ulastactivity=1712682352%7C0; HxHg_2132_checkpm=1; HxHg_2132_lastact=1712682354%09forum.php%09image// 填入Hao4k账号对应cookie
+// 填入Hao4k账号对应cookie
 let cookie = process.env["COOKIE"];
 
 
-let cookie = process.env["COOKIE"];
-PHPSESSID=0o76drd19nccuntm03hs4dapi4; HxHg_2132_lastvisit=1712676297; HxHg_2132_saltkey=J58gellh; HxHg_2132_isms_login_referer=https%3A%2F%2Fwww.hao4k.cn%2F; HxHg_2132_ulastactivity=1712679916%7C0; HxHg_2132_auth=e776FdF4NvouTCOI1M3F10AmmZ7n1U%2Fn%2F4W1vfDDnDn%2F22DnPiVuuN2Hbxyr%2Fjx8sWytcSSvgrF9m9Lhm%2FptSKqwO5Vl; HxHg_2132_lastcheckfeed=1124735%7C1712679916; HxHg_2132_lip=27.215.242.89%2C1712679916; HxHg_2132_sid=0; HxHg_2132_comiis_coloruid_1124735=0s; HxHg_2132_viewid=tid_75886; HxHg_2132_st_p=1124735%7C1712680291%7Ccda2d1f370bae6baca5b103cb7c79bef; HxHg_2132_home_diymode=1; HxHg_2132_checkpm=1; HxHg_2132_lastact=1712680449%09forum.php%09image// 填入4KSJ账号对应Cookie
+// 填入4KSJ账号对应Cookie
 let cookieSJ = process.env["SJCOOKIE"];
 
 
